@@ -33,7 +33,5 @@ https://www.linkedin.com/feed/update/urn:li:activity:6801837900255252480/ :red_e
 ![2](https://user-images.githubusercontent.com/42544569/113623357-ea7fb280-9666-11eb-92a7-4b0e5745ef85.png)
 ![3](https://user-images.githubusercontent.com/42544569/113623361-ebb0df80-9666-11eb-8544-49fc0e8cbfc1.png)
 
-.
-
 
 
